@@ -1,0 +1,47 @@
+html {
+    background-image: url(media/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'montserrat',sans-serif;
+    border: 3px solid purple;
+    text-align: center;
+    border-radius: 25px;
+}
+
+button {
+    color: white;
+    background-color:green;
+    font-size: 20px;
+    padding: 3px 10px;
+}
+
+.forgot {
+    font-family: Georgia;
+    font-style: italic;
+}
+
+.Login {
+    background-color: purple;
+    color: white;
+    padding: 30px;
+}
+
+.links img {
+    width: 50px;
+    margin-left: 10px;
+}
+
+.links {
+    padding: 10px;
+}
+
+ a:hover {
+    text-decoration: underline;
+    color: yellow;
+}
